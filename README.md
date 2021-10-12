@@ -1,4 +1,4 @@
-### Hi~, I'm James Zhang, a junior software open source engineer
+### Happy Coding...
 
 ![wozien's github stats](https://github-readme-stats.vercel.app/api?username=wozien&show_icons=true)
 
